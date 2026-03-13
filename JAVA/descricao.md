@@ -1,0 +1,1 @@
+Alguns dos documentos são mais simples, que são exercícios da faculdade, enquanto outros são exercícios da internet
