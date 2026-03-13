@@ -1,1 +1,1 @@
-Alguns dos documentos são mais simples, que são exercícios da faculdade, enquanto outros são exercícios da internet
+Arquivos com nomes "normais" são atividades da Faculdade, enquanto outros escritos com "***ex***" na frente são exercícios de cursos ou da internet.
