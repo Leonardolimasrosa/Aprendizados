@@ -1,5 +1,16 @@
 # Aprendizados 🤖
 
-### Aqui consta projetos e cursos feitos por mim ao longo do tempo
+### Este repositório foi criado para organizar e arquivar documentos sobre varíos tipos de linguagens
 
-Ainda falta um longo caminho, onde irei continuar aprimorando e aumentando os meus aprendizados de forma que aumente meus conhecimentos.
+Com isso, é possível revisar e aprender, tendo várias linhas comentadas explicando sobre vários assuntos.
+ Neste momentos, consta somente algumas linguagens, porém tenho o intuito de aumentar minhas habilidades. Meu objetivo é colocar todos esses tipos de linguagem e programa a baixo:
+
+ * [x] C/C++
+ * [x] HTML/CSS
+ * [x] JAVA
+ * [ ] JAVASCRIPT
+ * [ ] MYSQL
+ * [ ] OMIE (ERP NFs)
+ * [ ] PHP
+ * [ ] POWER BI
+ * [x] PYTHON

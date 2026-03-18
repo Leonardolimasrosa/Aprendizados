@@ -1,0 +1,11 @@
+# [Como criar a requisição e o pedido de Compra?](https://www.youtube.com/watch?v=GLNnIJboGgM&list=PLT_nh7d0FvPWLgicBGdw2KdLrzBBHVzqt)
+
+## **Pedido de compra (Fornecedor)**
+
+Neste vídeo, os processos descritos são para a requisição de compras de peças e/ou produtos. Ao iniciar uma nova requisição, é muito importantante saber qual é a categoria de compra requisitada, pois o CFOP pode mudar de acordo com o escolhido. <br/>
+Após criar as requisições, é necessário adicionar itens, podendo escolher qual(is) produto(s), quantidade e preço unitário sugerido por você (o preço sugerido não será mostrado ao fornecedor, é somente uma forma de limitar com relação ao quanto almeja com essa compra). Observações adicionar são importantes para o fornecedor entender algumas informações ou características da requisição a ser pedida. Também é possível adicionar uma observação generalizada da requisição ao todo, tanto para somente o fornecedor como também uma interna. <br/>
+Após completar tudo, não se preocupe que ainda é possível editá-lo, pois a requisição somente irá progredir quando você enviar por email a cotação. Após o envio do email, detalhes com a diretoria e aprovação com o fornecedor que atendeu ao pedido, o próximo passo é muito simples: segure o card e o arraste para o lado. Desse jeito irá abrir uma tela para que voçê indicar o fornecedor ganhador dessa requisição. Com isso, defina os dados deste pedido de compra e está concluido.<br/>
+Bom, como agora temos o orçamento, edite o valor que havia como sugestão do pedido de compra. Isto abre portas para que voçê possa distruir o valor de contribuição entre os departamentos. Não é obrigatório, sendo tabém a situação do frete, algo que é combinado entre o fornecedor e a empresa, onde é possível deixá-lo em branco e importar a nota fiscal do fornecedor posteriormente<br/>
+Após tudo, agora é necessário informar ao fornecedor como ficará valores, produtos e documentos, tendo uma coisa crucial que é um email feito para receber as NFs dos clientes. Feito isso, envie o seu pedido de compra oficial para aguardar o faturamento via nota-fiscal
+
+**Para mais informções, clique no título acima!**
